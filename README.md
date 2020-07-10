@@ -1,4 +1,5 @@
 ### Hey guys 👋
+<hr>
 
 My passion for games led me to learn about technology, programming and English!
 I am current studying React, Node.js, React Native and Flutter. Working with Javascript
