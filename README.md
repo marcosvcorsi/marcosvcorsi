@@ -1,5 +1,8 @@
 ### Hello 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinicius-corsi/)](https://www.linkedin.com/in/marcos-vinicius-corsi/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvcorsi@gmail.com)](mailto:marcosvcorsi@gmail.com)
+
 <!--
 **marcosvcorsi/marcosvcorsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
