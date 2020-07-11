@@ -1,9 +1,8 @@
 ### Hey guys 👋
 
 My passion for games led me to learn about technology, programming and English!
-I am current studying React, Node.js, React Native and Flutter. Working with Javascript
-and Typescript projects.
-<hr>
+I am current studying React, Node.js, React Native and Flutter. Rocketseat GoStack 11
+student. Working with Javascript and Typescript projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinicius-corsi/)](https://www.linkedin.com/in/marcos-vinicius-corsi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvcorsi@gmail.com)](mailto:marcosvcorsi@gmail.com)
