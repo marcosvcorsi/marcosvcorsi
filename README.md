@@ -1,7 +1,7 @@
 ### <h3>Hey guys 👋</h3>
 <p>
   My passion for games led me to learn about technology, programming and English!
-  I am current studying React, Node.js, React Native and Flutter. Working with Javascript and Typescript projects.
+  I am current studying React and Node.js. Working with Javascript and Typescript projects.
 </p>
 
 <div>
