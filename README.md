@@ -3,12 +3,11 @@
 My passion for games led me to learn about technology, programming and English!
 I am current studying React, Node.js, React Native and Flutter. Working with Javascript and Typescript projects.
 
-<div>
+<div style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvcorsi&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcorsi&theme=dark&layout=compact&langs_count=7" />
 </div>
-
-
+<br />
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinicius-corsi/)](https://www.linkedin.com/in/marcos-vinicius-corsi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvcorsi@gmail.com)](mailto:marcosvcorsi@gmail.com)
 
