@@ -1,7 +1,8 @@
 ### <h3>Hey guys 👋</h3>
 <p>
-  My passion for games led me to learn about technology, programming and English!
-  I am current studying React and Node.js. Working with Javascript and Typescript projects.
+  My passion for games led me to learn about technology, programming, and English!
+
+  I am a Software Engineer with 9+ years of experience, living in Brazil. I already worked as a full-stack developer, using Node.js and React, currently working more with the back-end using Node.js/Typescript. I'm always learning more about new technologies, and trying to evolve in my professional and personal life.
 </p>
 
 <div>
