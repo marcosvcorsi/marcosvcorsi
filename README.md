@@ -13,6 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-corsi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosvcorsi@gmail.com)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcosvcorsi.com.br)
 
 ## 💻 Tech Stack
 
@@ -33,12 +34,12 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [nestjs-tdd](https://github.com/marcosvcorsi/nestjs-tdd) | CRUD to practice tests using NestJS + TypeScript | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/nestjs-tdd?style=flat-square) TypeScript |
-| [clean-node-api](https://github.com/marcosvcorsi/clean-node-api) | API with TDD, Clean Architecture, Design Patterns & SOLID | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/clean-node-api?style=flat-square) TypeScript |
-| [clean-blog-api](https://github.com/marcosvcorsi/clean-blog-api) | Blog API with Clean Architecture & SOLID principles | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/clean-blog-api?style=flat-square) TypeScript |
-| [ticket-ms](https://github.com/marcosvcorsi/ticket-ms) | Microservices with NestJS, NextJS, MongoDB, NATS, Redis & k8s | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/ticket-ms?style=flat-square) TypeScript |
-| [sls-techs](https://github.com/marcosvcorsi/sls-techs) | Serverless Course — AWS + Node.js + Microservices | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/sls-techs?style=flat-square) TypeScript |
-| [advanced-node](https://github.com/marcosvcorsi/advanced-node) | API with TDD, Clean Architecture & Design Patterns | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/advanced-node?style=flat-square) TypeScript |
+| [nestjs-tdd](https://github.com/marcosvcorsi/nestjs-tdd) | CRUD to practice tests using NestJS + TypeScript | ⭐ 43 · TypeScript |
+| [clean-node-api](https://github.com/marcosvcorsi/clean-node-api) | API with TDD, Clean Architecture, Design Patterns & SOLID | ⭐ 10 · TypeScript |
+| [clean-blog-api](https://github.com/marcosvcorsi/clean-blog-api) | Blog API with Clean Architecture & SOLID principles | ⭐ 10 · TypeScript |
+| [ticket-ms](https://github.com/marcosvcorsi/ticket-ms) | Microservices with NestJS, NextJS, MongoDB, NATS, Redis & k8s | ⭐ 5 · TypeScript |
+| [sls-techs](https://github.com/marcosvcorsi/sls-techs) | Serverless Course — AWS + Node.js + Microservices | ⭐ 4 · TypeScript |
+| [advanced-node](https://github.com/marcosvcorsi/advanced-node) | API with TDD, Clean Architecture & Design Patterns | ⭐ 4 · TypeScript |
 
 ## 📊 GitHub Stats
 
