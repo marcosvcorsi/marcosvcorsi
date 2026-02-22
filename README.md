@@ -1,34 +1,52 @@
-### <h3>Hey guys 👋</h3>
-<p>
-  My passion for games led me to learn about technology, programming, and English!
+# Hey there! 👋 I'm Marcos Vinicius Corsi
 
-  I am a Software Engineer with 9+ years of experience, living in Brazil. I already worked as a full-stack developer, using Node.js and React, currently working more with the back-end using Node.js/Typescript. I'm always learning more about new technologies, and trying to evolve in my professional and personal life.
-</p>
+## 💫 About Me
 
-<div>
-  <a href="https://github.com/marcosvcorsi">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosvcorsi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs,issues"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcorsi&layout=compact&langs_count=7&theme=dark"/>
+🔭 Senior Software Engineer at **[@boompay](https://github.com/boompay)**<br>
+🌍 Living in Brazil<br>
+💻 12+ years of experience building software<br>
+🎮 My passion for games led me to technology, programming, and English!<br>
+🌱 Currently focused on back-end development with **Node.js / TypeScript**<br>
+📫 Reach me at **marcosvcorsi@gmail.com**
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-corsi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosvcorsi@gmail.com)
+
+## 💻 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [nestjs-tdd](https://github.com/marcosvcorsi/nestjs-tdd) | CRUD to practice tests using NestJS + TypeScript | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/nestjs-tdd?style=flat-square) TypeScript |
+| [clean-node-api](https://github.com/marcosvcorsi/clean-node-api) | API with TDD, Clean Architecture, Design Patterns & SOLID | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/clean-node-api?style=flat-square) TypeScript |
+| [clean-blog-api](https://github.com/marcosvcorsi/clean-blog-api) | Blog API with Clean Architecture & SOLID principles | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/clean-blog-api?style=flat-square) TypeScript |
+| [ticket-ms](https://github.com/marcosvcorsi/ticket-ms) | Microservices with NestJS, NextJS, MongoDB, NATS, Redis & k8s | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/ticket-ms?style=flat-square) TypeScript |
+| [sls-techs](https://github.com/marcosvcorsi/sls-techs) | Serverless Course — AWS + Node.js + Microservices | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/sls-techs?style=flat-square) TypeScript |
+| [advanced-node](https://github.com/marcosvcorsi/advanced-node) | API with TDD, Clean Architecture & Design Patterns | ![Stars](https://img.shields.io/github/stars/marcosvcorsi/advanced-node?style=flat-square) TypeScript |
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosvcorsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,issues" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcorsi&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/marcos-vinicius-corsi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:marcosvcorsi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>  
+---
 
-</div>
+![Profile views](https://visitcount.itsvg.in/api?id=marcosvcorsi&icon=0&color=0)
