@@ -50,6 +50,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosvcorsi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
----
-
-![Profile views](https://visitcount.itsvg.in/api?id=marcosvcorsi&icon=0&color=0)
