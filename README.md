@@ -44,8 +44,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosvcorsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,issues" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcorsi&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosvcorsi&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosvcorsi&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosvcorsi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
